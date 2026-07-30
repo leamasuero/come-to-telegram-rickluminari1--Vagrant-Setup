@@ -1,4 +1,5 @@
 #!/usr/bin/env bash
+node .github/init.js
 
 echo "--- Good morning, master. Let's get to work. Installing now. ---"
 
